@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "stylegan-machine-learning-art-first-example"
+version = "0.1.0"
+description = ""
+authors = ["Joshua Maldonado <joshjm9915@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+jupyterlab = "^3.1.12"
+numpy = "^1.21.2"
+opensimplex = "^0.3"
+requests = "^2.26.0"
+opencv-python = "^4.5.3"
+Pillow = "^8.3.2"
+matplotlib = "^3.4.3"
+runway-python = "^0.6.1"
+python-dotenv = "^0.19.0"
+
+[tool.poetry.dev-dependencies]
+black = "^21.9b0"
+jupyterlab-code-formatter = "^1.4.10"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
