@@ -1,4 +1,4 @@
-# StyleGan-machine-learning-art-first-example
+# StyleGAN-Landscape-latent-space-walk-example-Python
 
 ![Latent space walk](./latent_space_walk_example.gif)
 
